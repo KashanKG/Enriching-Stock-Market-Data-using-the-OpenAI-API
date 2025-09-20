@@ -1,7 +1,8 @@
 # DataCamp Workspace Project – Data Analysis
 
-This project was completed as part of the **DataCamp guided projects** series.  
-It focuses on **data analysis** and demonstrates how to use Python to analyze and summarize real-world datasets.
+Get ready to use your AI programming skills with OpenAI's API! As an AI developer, your assignment is to leverage OpenAI API to enrich and summarize stock market data.
+
+You will utilize OpenAI's classification capabilities to label the sector of stocks in the NASDAQ 100 as well produce insights about the best performing stocks within the index!
 
 ---
 
